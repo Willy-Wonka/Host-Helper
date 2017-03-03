@@ -1,3 +1,10 @@
+# Added by Willy Wonka
+### Node.js ###
+# All dependencies are saved inside the package.json file, so ignore the node modules
+node_modules
+# Need to run 
+# $npm install 
+# after download the web app
 
 # Created by https://www.gitignore.io/api/xcode,objective-c,webstorm
 
