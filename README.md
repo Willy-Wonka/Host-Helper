@@ -4,10 +4,10 @@ For Werewolf board game, help the moderator go through the game.
 
 ## Installation
 
-If use the Web Version, do the following step,  
-1. $npm install  
-2. $node server.js  
-3. open web brower http://localhost:3000/
+  If use the Web Version, do the following step,  
+  1. $npm install  
+  2. $node server.js  
+  3. open web brower http://localhost:3000/
 
 ## Usage
 
