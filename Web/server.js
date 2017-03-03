@@ -8,7 +8,7 @@ const MongoClient = require('mongodb').MongoClient;
 
 var db;
 
-MongoClient.connect('mongodb://will:willy@ds147797.mlab.com:47797/star-wars-quotes',
+MongoClient.connect('mongodb://will:will@ds113660.mlab.com:13660/moderator-helper',
     function (err, database)
     {
         if (err) return console.log(err);
